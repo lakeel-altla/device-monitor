@@ -1,0 +1,2 @@
+include ':app', ':nearby'
+project(':nearby').projectDir = new File(settingsDir, '/subtree/nearby-messages/library')

@@ -1,0 +1,5 @@
+<resources>
+    <string name="error_unknown">処理に失敗しました。</string>
+    <string name="notification_message_beacon_found">Beaconを検知しました。</string>
+    <string name="progress_wait">処理中です…</string>
+</resources>

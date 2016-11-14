@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/navigation_beacon"
+                android:icon="@mipmap/ic_nearby_white"
+                android:title="Beacon"/>
+    </group>
+</menu>

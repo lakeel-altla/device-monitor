@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Altla Device Monitor</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_nearby">Nearby</string>
+
+    <string name="error_unknown">Unknown error</string>
+    <string name="error_not_connected">Not connect to google play service.</string>
+
+    <string name="notification_message_beacon_found">Beacon found</string>
+    <string name="notification_message_beacon_distance_changed">Beacon distance changed</string>
+    <string name="notification_message_beacon_lost">Beacon lost</string>
+    <string name="notification_message_ble_signal_changed">Ble signal changed</string>
+
+
+    <string name="progress_wait">Processing…</string>
+</resources>
